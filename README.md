@@ -25,3 +25,7 @@ As this is a new feature for Common UI, Monica has asked that you create the pro
 ### Your tasks: 
 - style the CatCard component
 - create the CatCardCreator component
+
+### Data
+Mock data is provided in ./db.json and is served by json-server. You can run the server with `npm run db`. The server is available at http://localhost:3001
+
