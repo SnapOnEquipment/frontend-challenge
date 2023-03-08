@@ -17,7 +17,15 @@ As this is a new feature for Common UI, Monica has asked that you add a demonstr
 ### Your tasks: 
 - style the CatCard component
 - fix the problem with the image sizes
-- create the CatCardCreator component. It should allow the user to select a cat image and name their cat. The user should be able to save the cat to their herd. Keep things simple and just use the random cat image from the API for now. The user should be able to get a new random cat image by clicking on the reload icon.
+- create the CatCardCreator component. It should allow the user to select a cat image and name their cat. The user should be able to save the cat to their herd. Keep things simple and just use the random cat image from the API for now. The user should be able to get a new random cat image by clicking on the reload icon. You do not have to implement the save functionality.
+
+### Bonus tasks:
+- style the app... black is not a good color for a cat app and we haven't included any Snap-on branding yet.
+- implement the save functionality for the CatCardCreator
+
+### Notes
+- Try to use DRY principles and keep things simple. You don't have to implement everything. We are looking for a good understanding of React and CSS.
+- ..... suggestions here please
 
 ### Data
 Mock data is provided in ./db.json and is served by json-server. You can run the server with `npm run db`. The server is available at http://localhost:3001
