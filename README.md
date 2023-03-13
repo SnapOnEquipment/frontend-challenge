@@ -29,7 +29,7 @@ A very simple, unstyled proof of concept has been created for you to get started
 - add an interaction feature of your choice to the herd
 
 ### Notes
-- Try to use DRY principles and keep things simple. We are looking for a good understanding of React and CSS.
+- Try to use DRY principles and keep things simple. We are looking for a good understanding of Typescript, React and CSS.
 - It is normal to have questions! Please ask. You have been given a contact channel to use for questions. Please use it.
 - The mock / demo app you have been given is not perfect. It is an example of a very quick and dirty proof of concept. If you notice areas where it can be improved, either make a note of it or go ahead and improve it. We will discuss it during the follow-up interview.
 
