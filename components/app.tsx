@@ -39,6 +39,9 @@ export default function App() {
             <CatCardPanel herd={data.herd} />
           </div>
         </div>
+        <div className={styles.row}>
+          <DemoFooter />
+        </div>
       </div>
     </>
   );
