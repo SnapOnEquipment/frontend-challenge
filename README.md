@@ -20,6 +20,7 @@ A very simple, unstyled proof of concept has been created for you to get started
 - style the CatCard component
 - fix the problem with the image sizes
 - create the CatCardCreator component. It should allow the user to select a cat image and name their cat. The user should be able to save the cat to their herd. Keep things simple and just use the random cat image from the API for now. The user should be able to get a new random cat image by clicking on the reload icon. You do not have to implement the save functionality.
+- be ready to discuss your approach and decisions during the follow-up interview. If there were things you couldn't get to because of time constraints, please be prepared to discuss what you would do if you had more time. 
 
 ### Bonus tasks:
 - style the app... black is not a good color for a cat app and we haven't included any Snap-on branding yet.

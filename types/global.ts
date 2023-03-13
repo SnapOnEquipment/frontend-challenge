@@ -7,7 +7,7 @@ export interface UserData {
 }
 
 export interface CatCardProps {
-  knickname: string;
+  nickname: string;
   imageID: string;
   imageURI: string;
   breed: string;

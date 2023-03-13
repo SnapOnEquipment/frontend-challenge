@@ -1,17 +1,19 @@
 import { CatCardProps } from "@/types/global";
 
 const CatCard: React.FC<CatCardProps> = ({
-  knickname,
+  nickname,
   imageURI,
   breed,
   breedId,
 }) => {
   return (
     <div>
-      <h2>{knickname}</h2>
-      <img src={imageURI} alt={`Picture of ${knickname}`} />
+      <h2>{nickname}</h2>
+      <img src={imageURI} alt={`Picture of ${nickname}`} />
+      {/* 
+      Monica said to comment these out for now. Maybe we'll use them later.
       <p>Breed: {breed}</p>
-      <p>Breed ID: {breedId}</p>
+      <p>Breed ID: {breedId}</p> */}
     </div>
   );
 };
