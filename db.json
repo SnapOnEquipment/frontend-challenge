@@ -7,14 +7,14 @@
             "wallet": 74,
             "herd": [
                 {
-                    "knickname": "Wendy",
+                    "nickname": "Wendy",
                     "imageID": "b8s",
                     "imageURI": "https://cdn2.thecatapi.com/images/b8s.jpg",
                     "breed": "Bengal",
                     "breedId": "beng"
                 },
                 {
-                    "knickname": "Penny",
+                    "nickname": "Penny",
                     "imageID": "e4e",
                     "imageURI": "https://cdn2.thecatapi.com/images/e4e.jpg",
                     "breed": "Bengal",
@@ -23,7 +23,7 @@
                     "height": 375
                 },
                 {
-                    "knickname": "Alien Space Kitty",
+                    "nickname": "Alien Space Kitty",
                     "imageID": "BZ59tdOo6",
                     "imageURI": "https://cdn2.thecatapi.com/images/BZ59tdOo6.jpg",
                     "breed": "Bengal",
@@ -32,7 +32,7 @@
                     "height": 720
                 },
                 {
-                    "knickname": "Mr. Whiskers",
+                    "nickname": "Mr. Whiskers",
                     "imageID": "car",
                     "imageURI": "https://cdn2.thecatapi.com/images/car.jpg",
                     "breed": "Bengal",
@@ -41,7 +41,7 @@
                     "height": 300
                 },
                 {
-                    "knickname": "Todd",
+                    "nickname": "Todd",
                     "imageID": "24j",
                     "imageURI": "https://cdn2.thecatapi.com/images/24j.jpg",
                     "breed": "Bengal",
