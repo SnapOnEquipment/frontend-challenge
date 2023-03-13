@@ -6,7 +6,6 @@ const apiKey = process.env.THECATAPI_KEY;
 
 async function getBreedData(breedid: string) {
   try {
-    console.log(`querying: https://api.thecatapi.com/v1/breeds/${breedid}`);
     const response = await fetch(
       `https://api.thecatapi.com/v1/breeds/${breedid}`
     );

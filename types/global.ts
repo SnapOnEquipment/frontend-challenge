@@ -10,8 +10,8 @@ export interface CatCardProps {
   nickname: string;
   imageID: string;
   imageURI: string;
-  breed: string;
-  breedId: string;
+  breed?: string;
+  breedId?: string;
   width?: number;
   height?: number;
 }

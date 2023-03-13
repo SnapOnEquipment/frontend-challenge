@@ -50,6 +50,162 @@
                     "height": 2218
                 }
             ]
+        },
+        {
+            "id": 66,
+            "firstName": "John",
+            "lastname": "Connor",
+            "wallet": 320,
+            "herd": [
+                {
+                    "nickname": "Tiger",
+                    "imageID": "3q",
+                    "imageURI": "https://cdn2.thecatapi.com/images/3q.jpg",
+                    "width": 500,
+                    "height": 336
+                },
+                {
+                    "nickname": "Ace",
+                    "imageID": "mp",
+                    "imageURI": "https://cdn2.thecatapi.com/images/mp.jpg",
+                    "width": 467,
+                    "height": 700
+                },
+                {
+                    "nickname": "Stewie",
+                    "imageID": "3cs",
+                    "imageURI": "https://cdn2.thecatapi.com/images/3cs.jpg",
+                    "width": 468,
+                    "height": 500
+                },
+                {
+                    "nickname": "Laxor",
+                    "imageID": "72c",
+                    "imageURI": "https://cdn2.thecatapi.com/images/72c.jpg",
+                    "width": 500,
+                    "height": 333
+                },
+                {
+                    "nickname": "Reggie 1&2",
+                    "imageID": "7nm",
+                    "imageURI": "https://cdn2.thecatapi.com/images/7nm.jpg",
+                    "width": 500,
+                    "height": 277
+                },
+                {
+                    "nickname": "Cap'n Cyril",
+                    "imageID": "8vh",
+                    "imageURI": "https://cdn2.thecatapi.com/images/8vh.jpg",
+                    "width": 570,
+                    "height": 575
+                },
+                {
+                    "nickname": "Sinkers",
+                    "imageID": "9c2",
+                    "imageURI": "https://cdn2.thecatapi.com/images/9c2.jpg",
+                    "width": 500,
+                    "height": 667
+                },
+                {
+                    "nickname": "Mittens",
+                    "imageID": "b45",
+                    "imageURI": "https://cdn2.thecatapi.com/images/b45.jpg",
+                    "width": 500,
+                    "height": 375
+                },
+                {
+                    "nickname": "Java Joe",
+                    "imageID": "bt4",
+                    "imageURI": "https://cdn2.thecatapi.com/images/bt4.jpg",
+                    "width": 500,
+                    "height": 338
+                },
+                {
+                    "nickname": "Plopper",
+                    "imageID": "cun",
+                    "imageURI": "https://cdn2.thecatapi.com/images/cun.gif",
+                    "width": 190,
+                    "height": 355
+                }
+            ]
+        },
+        {
+            "firstName": "Billy",
+            "lastName": "Bob",
+            "id": 74,
+            "wallet": 0,
+            "herd": [
+                {
+                    "nickname": "Kitty",
+                    "imageID": "2fq",
+                    "imageURI": "https://cdn2.thecatapi.com/images/2fq.gif",
+                    "width": 500,
+                    "height": 281
+                },
+                {
+                    "nickname": "Cleetus",
+                    "imageID": "5hl",
+                    "imageURI": "https://cdn2.thecatapi.com/images/5hl.jpg",
+                    "width": 500,
+                    "height": 357
+                },
+                {
+                    "nickname": "Earl",
+                    "imageID": "a6h",
+                    "imageURI": "https://cdn2.thecatapi.com/images/a6h.jpg",
+                    "width": 520,
+                    "height": 335
+                },
+                {
+                    "nickname": "Chad",
+                    "imageID": "abg",
+                    "imageURI": "https://cdn2.thecatapi.com/images/abg.jpg",
+                    "width": 510,
+                    "height": 383
+                },
+                {
+                    "nickname": "Osiris",
+                    "imageID": "abi",
+                    "imageURI": "https://cdn2.thecatapi.com/images/abi.jpg",
+                    "width": 560,
+                    "height": 483
+                },
+                {
+                    "nickname": "Ziggy",
+                    "imageID": "e40",
+                    "imageURI": "https://cdn2.thecatapi.com/images/e40.jpg",
+                    "width": 600,
+                    "height": 450
+                },
+                {
+                    "nickname": "Xantham",
+                    "imageID": "MTUyNjg2NA",
+                    "imageURI": "https://cdn2.thecatapi.com/images/MTUyNjg2NA.gif",
+                    "width": 425,
+                    "height": 239
+                },
+                {
+                    "nickname": "Ubbie",
+                    "imageID": "MTgyOTQ1NA",
+                    "imageURI": "https://cdn2.thecatapi.com/images/MTgyOTQ1NA.jpg",
+                    "width": 600,
+                    "height": 803
+                },
+                {
+                    "nickname": "Sr. Purrkins",
+                    "imageID": "MjAzMDMwMg",
+                    "imageURI": "https://cdn2.thecatapi.com/images/MjAzMDMwMg.jpg",
+                    "width": 519,
+                    "height": 778
+                },
+                {
+                    "nickname": "Squeaky",
+                    "imageID": "udZiLDG_E",
+                    "imageURI": "https://cdn2.thecatapi.com/images/udZiLDG_E.jpg",
+                    "width": 880,
+                    "height": 1100
+                }
+            ]
         }
     ],
     "breeds": [
