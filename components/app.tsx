@@ -1,6 +1,7 @@
 import { useQuery } from "react-query";
 import CatCardPanel from "../components/catCardPanel";
 import CatCardCreator from "../components/catCardCreator";
+import DemoFooter from "../components/demoFooter";
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
 import { UserData } from "@/types/global";
@@ -32,7 +33,6 @@ export default function App() {
         </div>
         <div className={styles.row}>
           <div className={styles.col}>
-            {" "}
             <CatCardCreator />
           </div>
           <div className={styles.col}>
