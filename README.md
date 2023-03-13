@@ -11,7 +11,7 @@ The idea is that the workers in any particular workshop can maintain a herd of c
 
 The user's cat herd consists of Cat Cards. Users grow their herd by using the Cat Card Creator component. Monica has generated a simple mock-up for what a Cat Card Creator could look like and has created a simple base app with user data that you can use to get started. Cat images and details are sourced from https://api.thecatapi.com/. You should apply for a developer license and use that in the local configuration file.
 
-As this is a new feature for Common UI, Monica has asked build the app in demonstration mode so that she may show the features to management. She has suggested that you create a footer bar that includes a selector for the active user. This will be removed before we ship the app. She also noticed that the images from thecatapi.com are not the same size so she would like them to auto-fit in a consistent way since all the Cat Cards should be the same size.
+As this is a new feature for Common UI, Monica has asked that the app be built in 'demonstration mode' so that she may show the features to management. She has suggested that you create a footer bar that includes a selector for the active user. This will be removed before we ship the app. She also noticed that the images from thecatapi.com are not the same size so she would like them to auto-fit in a consistent way since all the Cat Cards should be the same size.
 
 A very simple, unstyled proof of concept has been created for you to get started.
 
