@@ -5,7 +5,7 @@ Snap-on has learned that workshop staff:
 - may not be allowed to use their phones during work for entertainment
 - love cats
 
-Monica, the Common UI product owner, has asked you to improve a prototype for a Snap-on Cat Club. The Cat Club will ship as part of the Common UI suite used on our new machines which are used in auto workshops around the world. 
+Monica, the Common UI product owner, has asked you to improve a prototype for a Snap-on Cat Club. The Cat Club will ship as part of the Common UI suite used on our new machines in auto workshops around the world. 
 
 The idea is that the workers in any particular workshop can maintain a herd of cats. Workers can grow their herds using Snaps (coins) they earn while performing work tasks. The mock-up doesn't yet have any use of the coins to buy or sell cats. In the future different breeds could have different values as a gamification feature. The Cat Club will be a place where workers can take a break and view their herds and interact with them. Right now, 'interacting with them' means displaying them to view. In the future, we will add more features to the Cat Club.
 
