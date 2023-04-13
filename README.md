@@ -29,7 +29,7 @@ A very simple, unstyled proof of concept has been created for you to get started
 - add an interaction feature of your choice to the herd
 
 ### Notes
-- Try to use DRY principles and keep things simple. We are looking for a good understanding of Typescript, React and CSS.
+- Try to use DRY principles and keep things simple. We are looking for a good understanding of Typescript, React and CSS. Think about the UX during the asynchronous actions and updates. Users should understand what's going on or what happened. Can we save cats without names? Can we keep multiple copies of the same cat image?
 - It is normal to have questions! Please ask. You have been given a contact channel to use for questions. Please use it.
 - The mock / demo app you have been given is not perfect. It is an example of a very quick and dirty proof of concept. If you notice areas where it can be improved, either make a note of it or go ahead and improve it. We will discuss it during the follow-up interview.
 - Be ready to discuss your approach and decisions during the follow-up interview. If there were things you couldn't get to because of time constraints, please be prepared to discuss what you would do if you had more time. 
