@@ -16,7 +16,7 @@ As this is a new feature for Common UI, Monica has asked that the app be built i
 A very simple, unstyled proof of concept has been created for you to get started. The monitors on our machines are normally standard 1080p displays so the Cat Club should be designed for that resolution.
 
 ### Your tasks: 
-- fix the layout problem so the columnns and rows of the concept app works as expected
+- fix the layout problem so the columns and rows of the concept app works as expected
 - style the CatCard component
 - fix the problem with the image sizes
 - implement the CatCardCreator component. It should allow the user to select a cat image and name their cat. The user should be able to save the cat to their herd. Keep things simple and just use the random cat image from the API for now. The user should be able to get a new random cat image by clicking on the reload icon. You do not have to implement the save functionality.
@@ -35,5 +35,5 @@ A very simple, unstyled proof of concept has been created for you to get started
 - Be ready to discuss your approach and decisions during the follow-up interview. If there were things you couldn't get to because of time constraints, please be prepared to discuss what you would do if you had more time. 
 
 ### Data
-Mock data is provided in a [json file](db.json) and is served by [json-server](https://github.com/typicode/json-server). You can run the server with `npm run db`. The server is available at http://localhost:3001 In actual production we would use a real database, but for this exercise we are using a mock database. This is not something you need to worry about or improve.
+Mock data is provided in a [json file](db.json) and is served by [json-server](https://github.com/typicode/json-server). You can run the server with `npm run db`. The server is available at http://localhost:3001 In actual production we would use a real database, but for this exercise we are using a mock database. This is not something you need to worry about or improve. The mock data contains some cat breed info but this isn't important for this challenge.
 
